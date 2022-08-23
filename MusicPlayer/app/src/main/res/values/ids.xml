@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnnext" type="id" />
+    <item name="btnprev" type="id" />
+    <item name="playbtn" type="id" />
+    <item name="btnff" type="id" />
+    <item name="btnfr" type="id" />
+    <item name="txtsn" type="id" />
+    <item name="txtsstart" type="id" />
+    <item name="txtsstop" type="id" />
+    <item name="imageview" type="id" />
+    <item name="seekbar" type="id" />
+</resources>
